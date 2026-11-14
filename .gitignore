@@ -1,0 +1,13 @@
+# Local working directories (audio segments, transcripts, logs)
+lectures/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+.env
+*.jsonl
+*.log
